@@ -2,16 +2,31 @@ body{
     margin: 0;
     font-family: 'Montserrat', sans-serif;
 }
-
+.top-section{
+    margin: 0;
+}
+.top-section-div{
+    float: left;
+    width: 46%;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+.div-left{
+    margin-top: 3%;
+}
 h1{
-    font-size: 60px;
+    font-size: 55px;
     font-weight: 700;
 }
-
+.top-para{
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
 span{
     color: #FF1E1E;
 }
-
 .bTn{
     color: #ffffff;
     font-size: 18px;
@@ -21,4 +36,8 @@ span{
     padding: 10px 30px;
     background-image: linear-gradient(100deg, #FBA24F, #FF1E1E);
     border-radius: 20px;
+}
+.top-section-div img{
+    width: 90%;
+    float: right;
 }
