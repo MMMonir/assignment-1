@@ -1,0 +1,4 @@
+This is not responsive design. So this design will be different in different screen size.
+Please check the ***Website Screenshot.png***, which is the actual look of this website in my laptop screen.
+
+Thanks.
