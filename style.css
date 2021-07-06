@@ -2,8 +2,9 @@ body{
     margin: 0;
     font-family: 'Montserrat', sans-serif;
 }
-.top-section{
-    margin: 0;
+section{
+    height: 500px;
+    margin-bottom: 150px;
 }
 .top-div{
     float: left;
@@ -41,15 +42,20 @@ span{
     width: 90%;
     float: right;
 }
-
+.about-sec{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    height: 471px;
+}
 .about-div{
     float: left;
     width: 30%;
     margin:0 5%;
     padding:0 5%;
+    margin-top: 50px;
 }
 .about-right{
-    margin-top: 50px;
+    margin-top: 30px;
 }
 .about-div img{
     width: 70%;
@@ -60,4 +66,11 @@ h2{
     line-height: 54px;
     font-weight: bold;
     color: #707070;
+}
+.about-para{
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 400;
+    color: #18191F;
+    margin-bottom: 45px;
 }
