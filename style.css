@@ -74,3 +74,31 @@ h2{
     color: #18191F;
     margin-bottom: 45px;
 }
+.recipie-section{
+    width: 89%;
+    margin: 0 auto;
+}
+.recipie-div {
+    width: 27%;
+    float: left;
+    margin: 0px 2%;
+    padding: 1%;
+    border-radius: 21px;
+    box-shadow: 0px 0px 16px #888888;
+}
+.recipie-div img {
+    width: 100%;
+}
+
+.recipie-text{
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 400;
+    color: #18191F;
+}
+.recipie-title{
+    font-size: 28px;
+    line-height: 40px;
+    font-weight: 800;
+    color: #18191F;
+}
