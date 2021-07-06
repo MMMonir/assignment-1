@@ -5,7 +5,7 @@ body{
 .top-section{
     margin: 0;
 }
-.top-section-div{
+.top-sec-half{
     float: left;
     width: 46%;
     margin-left: 2%;
@@ -37,7 +37,7 @@ span{
     background-image: linear-gradient(100deg, #FBA24F, #FF1E1E);
     border-radius: 20px;
 }
-.top-section-div img{
+.top-sec-half img{
     width: 90%;
     float: right;
 }
