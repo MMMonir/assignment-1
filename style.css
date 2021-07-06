@@ -3,9 +3,10 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 section{
-    height: 450px;
+    display: block;
 }
 .top-section{
+    height: 450px;
     margin-bottom: 150px;
 }
 .top-div{
@@ -45,6 +46,7 @@ span{
     float: right;
 }
 .about-sec{
+    height: 450px;
     background-image: url(images/7.png);
     background-repeat: no-repeat;
     height: 471px;
@@ -77,9 +79,13 @@ h2{
     color: #18191F;
     margin-bottom: 45px;
 }
+.recipie-container{
+    height: 700px;
+}
 .recipie-section{
     width: 89%;
     margin: 0 auto;
+    margin-bottom: 100px;
 }
 .center-div {
     text-align: center;
@@ -113,4 +119,27 @@ h2{
     padding: 0px;
     margin-top: 40px;
     margin-bottom: -9px;
+}
+.footer{
+    background-color: #000000;
+    padding: 50px 0;
+    margin-top: 50px;
+}
+.footer-title{
+   color: #ffffff;
+   text-align: center;
+   font-size: 24px;
+   line-height: 27px;
+   font-weight: 700;
+   padding: 0;
+   margin-bottom: 19px;
+}
+#footer-text{
+    padding: 0;
+    color: #ffffff;
+    text-align: center;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+    margin-bottom: 30px;
 }
